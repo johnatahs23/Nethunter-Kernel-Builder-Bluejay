@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
       "name": "Pixel4",
-      "repo": "https://github.com/kerneltoast/android_kernel_google_floral",
-      "branch": "11.0.0-sultan",
-      "device": "floral"
+      "repo": "https://android.googlesource.com/device/google/lynx-kernel",
+      "branch": "android-14.0.0_r22",
+      "device": "lynx"
     },
     "withKernelSU": true,
     "toolchains": [
