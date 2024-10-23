@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
       "name": "Lineage21",
-      "repo": "https://android.googlesource.com/kernel/configs/",
-      "branch": "android-gs-bluejay-5.10-android14-qpr3-beta",
-      "device": "bluejay"
+      "repo": "https://github.com/msnx/KernelSU-Pixel4XL",
+      "branch": "main",
+      "device": "floral"
     },
     "withKernelSU": true,
     "toolchains": [
