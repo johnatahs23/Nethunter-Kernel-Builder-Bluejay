@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
-      "name": "Lineage21",
-      "repo": "https://github.com/msnx/KernelSU-Pixel4XL",
-      "branch": "main",
+      "name": "Pixel4",
+      "repo": "https://github.com/kerneltoast/android_kernel_google_floral",
+      "branch": "11.0.0-sultan",
       "device": "floral"
     },
     "withKernelSU": true,
